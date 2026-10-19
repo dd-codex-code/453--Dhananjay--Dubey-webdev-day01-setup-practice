@@ -11,3 +11,4 @@ Node.js version screenshot
 <img width="1919" height="1080" alt="{2974F041-DFCE-4F1D-997F-76222BA18B69}" src="https://github.com/user-attachments/assets/af3c8858-74f2-40c0-987d-28cabaef84f4" />
 
 Live Server screenshot
+<img width="1115" height="800" alt="{FA649533-BF5D-4CAB-AF30-D05699E50CEF}" src="https://github.com/user-attachments/assets/003c108b-2fab-4d93-b2a4-ff5b3298227c" />
